@@ -44,7 +44,7 @@ With that said, **I still want to help you with these assignments**.  So, if you
     * When it comes to committing/pushing, treat a fork as you would any other code in your own repo -- the only difference is that the code starts out as someone else's.  
     * With that said, be aware that the fork will always identify itself as such, and you should never fork someone else's repo and then claim the entirety of it as your own.  It is often good manners to acknowledge that a repo is a fork somewhere in its README as a respectful nod/citation to the original creator.  GitHub will always remember anyway, though.
 
-1. **Make a branch on your fork; the only change will be that you must  your GitHub username onto this task list below my name:**
+1. **Make a branch on your fork; the only change will be that you must add your GitHub username onto this task list below my name:**
     - [X] zwhile
 
     * Even though you are making a fork of *my* repository, **please make a branch on your fork where the branch's name is your username**.  So if I were doing this, my branch on my fork would be `zwhile`, since that is my GitHub username.

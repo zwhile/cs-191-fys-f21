@@ -56,6 +56,8 @@ With that said, **I still want to help you with these assignments**.  So, if you
     * Here's a [Guide to Creating a Pull Request from a Fork](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
     * Be aware that I will comment on and/or deny the pull request if anything is incorrect (such as the branch name and/or the changes you made) since accepting your pull request visibly changes the repo.  The comments will just let you know what changes need to be made before resubmitting your pull request.
 
+1. **Submit a link to your repo as the homework submission on Moodle.**
+
 1. **OPTIONAL:** If you see any spelling errors (or other errors in general) on this repo, open an issue!
     * Here's a [Guide to Opening Issues on GitHub](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue).
     * This won't count for extra credit, but it's good practice for opening issues on GitHub!

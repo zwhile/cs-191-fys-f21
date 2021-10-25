@@ -48,6 +48,7 @@ With that said, **I still want to help you with these assignments**.  So, if you
     - [X] zwhile
     - [X] JonahOsborne
     - [X] Jiexyy
+    - [X] CalebTeeter
 
     * Even though you are making a fork of *my* repository, **please make a branch on your fork where the branch's name is your username**.  So if I were doing this, my branch on my fork would be `zwhile`, since that is my GitHub username.
     * The only change you need to make is adding your username and a checkbox, like my username has now.  You should be able to see the required change/format in a text editor.

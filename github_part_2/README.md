@@ -1,3 +1,4 @@
+# GitHub (Part 1)
 
 ## Assignment Format
 One goal of these GitHub tutorials will be getting you used to looking at documentation.  You will likely do this quite often when working with a programming language, whether you've been working with it for 12 days or 12 years!  

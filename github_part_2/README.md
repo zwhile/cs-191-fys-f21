@@ -1,4 +1,3 @@
-# GitHub (Part 2)
 
 ## Assignment Format
 One goal of these GitHub tutorials will be getting you used to looking at documentation.  You will likely do this quite often when working with a programming language, whether you've been working with it for 12 days or 12 years!  
@@ -49,6 +48,7 @@ With that said, **I still want to help you with these assignments**.  So, if you
     - [X] JonahOsborne
     - [X] Jiexyy
     - [X] CalebTeeter
+    - [X] noamgans
 
     * Even though you are making a fork of *my* repository, **please make a branch on your fork where the branch's name is your username**.  So if I were doing this, my branch on my fork would be `zwhile`, since that is my GitHub username.
     * The only change you need to make is adding your username and a checkbox, like my username has now.  You should be able to see the required change/format in a text editor.

@@ -6,3 +6,5 @@ The goal of the git-related work is to give you starting familiarity with git an
 
 ## Where will things be stored?
 Each assignment will have its own folder, for example the first git assignment is in the ``github_part_1/`` folder.  Note that each assignment will also have its own ``README.md`` as well, giving the specific information for that assignment's requirements.
+
+[x]amotupalli7
